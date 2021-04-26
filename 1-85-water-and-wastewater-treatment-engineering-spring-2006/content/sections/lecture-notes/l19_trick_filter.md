@@ -1,0 +1,13 @@
+---
+course_id: 1-85-water-and-wastewater-treatment-engineering-spring-2006
+description: 'This resource includes handwritten notes of the Instructor on the topic:
+  Trickling Filters, Biological Contactors.'
+file_location: /coursemedia/1-85-water-and-wastewater-treatment-engineering-spring-2006/69d4a46275ddd0a86b999902ff14726a_l19_trick_filter.pdf
+file_type: application/pdf
+layout: pdf
+title: l19_trick_filter.pdf
+type: course
+uid: 69d4a46275ddd0a86b999902ff14726a
+
+---
+None
